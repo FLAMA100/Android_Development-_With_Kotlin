@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+*.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Kotlin
+*.class
+
+# macOS
+.DS_Store

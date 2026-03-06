@@ -1,0 +1,12 @@
+# Compiled output
+*.jar
+*.class
+out/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Kotlin
+*.kotlin_module
